@@ -43,8 +43,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=second322&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--Мы добавим изображения, которые отражают какими технологиями и навыками вы обладаете. Бесплатные логотипы для разных языков программирования можно найти в репозитории DevIcons.
 
 Перейдите в папку icons, найдите и откройте директорию react. Здесь вы найдете изображения в форматах SVG и EPS. Кликните на нужное изображение и скопируйте URL из адресной строки браузера.
 
 --!>
+
+
+
